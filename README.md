@@ -1,6 +1,6 @@
 # Cornell University Library Archivematica Investigations
 
-See [issues](issues) for current open questions and issues. (There is no code in this repository.)
+**See [issues](https://github.com/cul-it/amatica/issues) for current open questions and issues.** (There is no code in this repository.)
 
 See also:
 
